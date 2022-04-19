@@ -3,8 +3,11 @@ a simple UI to swap EAC on and off for Elden Ring.. written in c#
 
 # To Use, Place the .EXE in a FRESH/VERIFIED Elden Ring Base Folder
 
-> - it would be wise to delete the backup folders every update
-> - I may add kill elden ring process / update to the UI in future, or maybe not cos im lazy
+> - Updated!, added the 2nd method which uses steam_appid.txt file, to disable EAC
+
+> - it would be wise to delete the backups of the EXE's every update since they will be wrong version- i wont be adding autoupdate
+you could also use the new method which doesnt swap any files, just uses a new text file and changes it according to what you want EAC to be
+
 > - you can download the source so do whatever you want with it, (sorry for poor code, i am a noob)
 
 ![Screenshot](screenshot1.png)
