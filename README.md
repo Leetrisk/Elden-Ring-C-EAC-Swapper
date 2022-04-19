@@ -8,5 +8,7 @@ a simple UI to swap EAC on and off for Elden Ring.. written in c#
 you could also use the new method which doesnt swap any files, just uses a new text file and changes it according to what you want EAC to be
 > - you can download the source so do whatever you want with it, (sorry for poor code, i am a noob)
 
+The launch button on the program, will launch it from the exe used in the method for that page
+
 ![Screenshot](screenshot1.png)
 ![Screenshot](screenshot3.png)
