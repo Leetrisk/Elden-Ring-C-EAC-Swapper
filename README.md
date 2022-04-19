@@ -9,4 +9,4 @@ you could also use the new method which doesnt swap any files, just uses a new t
 > - you can download the source so do whatever you want with it, (sorry for poor code, i am a noob)
 
 ![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
