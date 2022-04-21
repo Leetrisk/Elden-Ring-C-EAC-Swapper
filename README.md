@@ -10,5 +10,4 @@ you could also use the new method which doesnt swap any files, just uses a new t
 
 The launch button on the program, will launch it from the exe used in the method for that page
 
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot3.png)
+![Screenshot](screenshot.png)
