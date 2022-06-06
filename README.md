@@ -8,4 +8,4 @@ a simple UI to swap EAC on and off for Elden Ring.. written in c#
 
 > - unless there is an actual problem with the program i will no longer be adding fixes, or features (most likely), if the source becomes available you can add your own changes/features
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
