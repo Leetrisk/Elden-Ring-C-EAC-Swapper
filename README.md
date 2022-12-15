@@ -1,4 +1,4 @@
-# Elden-Ring-C-EAC-Swapper
+# Elden-Ring-C-EAC-Swapper (still working after Colosseum update)
 a simple UI to swap EAC on and off for Elden Ring.. written in c#
 
 > - I have updated from the old version to just use the steam_appid.txt bypass. also added a check to find and start with seemless co-op
