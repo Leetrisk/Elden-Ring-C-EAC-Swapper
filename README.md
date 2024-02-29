@@ -8,4 +8,4 @@ Place the .rar contents in the Elden Ring Base Folder, launch using the EldenRin
 
 this will allow you to: 1) launch the game normally    2) launch with EAC disabled or enabled   3) launch with seam-less co-op
 
-![Screenshot](screenshot.PNG)
+![Screenshot](screenshot_1.png)
